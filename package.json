@@ -1,0 +1,25 @@
+{
+  "name": "whosgood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBSPsoyeonjeon/whosgood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBSPsoyeonjeon/whosgood/issues"
+  },
+  "homepage": "https://github.com/SBSPsoyeonjeon/whosgood#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "mysql2": "^1.4.1",
+    "restify": "^5.1.0"
+  },
+  "devDependencies": {}
+}
