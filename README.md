@@ -1,11 +1,12 @@
 # whosgood
 
-install Node.js
-add luis sdk
-install npm
+install Node.js <br />
+add luis sdk <br />
+install npm <br />
 
-npm install --save botbuilder
-npm install --save restify
-npm install --save mysql2
+npm install --save botbuilder <br />
+npm install --save restify <br />
+npm install --save mysql2 <br />
 
-run w/        node app.js
+run w/     <br />
+node app.js 
